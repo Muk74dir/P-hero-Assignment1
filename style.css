@@ -48,7 +48,7 @@ body{
     text-align: center;
     padding-bottom: 40px;
 }
-.second-div{
+.divider{
     display: flex;
     width: 100%;
 }
@@ -97,4 +97,17 @@ body{
  .mission hr{
    height: 1px;
    background-color: black;
+}
+.bottm_emty{
+    padding-bottom: 160px;
+}
+#first_middle{
+    padding-left: 120px;
+    padding-top: 50px;
+}
+#first_middle h1{
+    font-size: 30px;
+}
+#first_middle p{
+    font-weight: 600;
 }
