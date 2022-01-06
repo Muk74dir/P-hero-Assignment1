@@ -46,7 +46,7 @@ body{
     padding-top: 40px;
     font-size: 50px;
     text-align: center;
-    padding-bottom: 80px;
+    padding-bottom: 40px;
 }
 .second-div{
     display: flex;
@@ -55,8 +55,10 @@ body{
 .mission{
     padding-left: 30px;
     padding-right: 30px;
+    padding-bottom: 20px;
     font-size: 20px;
     width: 100%;  
+    margin-left: 30px;
 
 }
 
@@ -71,22 +73,28 @@ body{
     font-weight: 500;
 }
 #bg-color_1{
+    
     border: 1px solid white;
     background-color: rgb(206, 235, 247);
-    border-radius: 50px;
+    border-radius: 30px;
     box-shadow:10px 10px skyblue;
 }
 #bg-color_2{
+   
     border: 1px solid white;
     background-color: rgb(205, 202, 250);
-    border-radius: 50px;
+    border-radius: 30px;
     box-shadow:10px 10px skyblue;
 }
 #bg-color_3{
+   
     border: 1px solid white;
     background-color: rgb(250, 202, 202);
-    border-radius: 50px;
+    border-radius: 30px;
     box-shadow:10px 10px skyblue;
 }
 
+ .mission hr{
+   height: 1px;
+   background-color: black;
 }
