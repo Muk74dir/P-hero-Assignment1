@@ -42,3 +42,51 @@ body{
     padding: 10px 20px;  
     border-radius: 5px;
 }
+.middle-section h1{
+    padding-top: 40px;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+.second-div{
+    display: flex;
+    width: 100%;
+}
+.mission{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    width: 100%;  
+
+}
+
+.mission-pic{
+    padding-top: 40px;
+    padding-left: 5px;
+    height: 100px;
+    width: 100px;
+}
+.mission p{
+    font-size: 18px;
+    font-weight: 500;
+}
+#bg-color_1{
+    border: 1px solid white;
+    background-color: rgb(206, 235, 247);
+    border-radius: 50px;
+    box-shadow:10px 10px skyblue;
+}
+#bg-color_2{
+    border: 1px solid white;
+    background-color: rgb(205, 202, 250);
+    border-radius: 50px;
+    box-shadow:10px 10px skyblue;
+}
+#bg-color_3{
+    border: 1px solid white;
+    background-color: rgb(250, 202, 202);
+    border-radius: 50px;
+    box-shadow:10px 10px skyblue;
+}
+
+}
